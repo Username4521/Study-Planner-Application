@@ -1,0 +1,11 @@
+{
+  "name": "KEDS Elite Study Planner",
+  "short_name": "KEDS",
+  "description": "Your personal study planner.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07152e",
+  "theme_color": "#07152e"
+}

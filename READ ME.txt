@@ -1,0 +1,18 @@
+KEDS Elite Study Planner - offline copy
+
+How to use:
+1. Unzip this folder somewhere (do not delete the "docs" folder inside it).
+2. Double-click index.html - it opens in your browser (Chrome, Edge, Safari).
+3. Your ticked progress, notes, timer and uploaded documents are saved inside
+   that browser on that computer, so reopening the same file keeps them.
+
+What works offline: everything - checklists, day plan, timer, mock exams,
+notes, documents you add, and the built-in quadratics worksheet.
+
+What needs the published site: the buttons that write new questions, mark
+answers, rebuild the plan, find revision videos and send progress emails.
+Those run on the app's server at snippet-vault-app.lovable.app.
+
+
+Expanded edition:
+The planner now includes Biology, Geography, History, English Language, English Literature and Business Studies alongside the original subjects. New subjects are included in the dashboard, study schedule, progress tracking, day planner and mock exam score tracking.
